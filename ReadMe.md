@@ -2,7 +2,7 @@
 • Skilled in Flutter & Dart.<br>• Expertise in web & app development<br>• Strong eye for user interface and user experience.<br>• Continuous learner, always staying up-to-date.<br>• The portfolio showcases impactful projects.
 
 
-##🌐 Socials:
+# Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tusharsuryava) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/perfect_tushar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-suryavanshi-7716a0167) 
 
 # Tech Stack:
