@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=perfecttushar&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perfecttushar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Random Dev Quote
+# Developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
